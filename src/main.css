@@ -1,0 +1,40 @@
+.main-background{
+    background-image: url("../img/pink2.jpg");
+    background-size: auto;
+}
+.main-title{
+    margin-top: 0px;
+    margin-left: 350px;
+}
+.main-title-1{
+    color: #9d9d9d;
+}
+.main-title-2{
+    color: #e4b9b9;
+}
+.main-leaderboard{
+    color: red;
+    font-style:oblique;
+    font-size: 30px;
+}
+.main-lead-1{
+    color: #82318E;
+}
+.main-introduction{
+    font-style: italic;
+    margin-top: 150px;
+    font-size: 40px;
+    color: #fbf069;
+}
+.main-block{
+    background-image: url("../img/11.jpg");
+    width: 100px;
+    height: 85px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.main-end{
+    background-color: #dddddd;
+    height: 120px;
+
+}

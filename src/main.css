@@ -1,3 +1,8 @@
+.music-end{
+    margin-top: 70px;
+    background-color: #dddddd;
+    height: 120px;
+}
 .main-background{
     background-image: url("../img/pink2.jpg");
     background-size: auto;
@@ -69,4 +74,9 @@
 }
 .personal-left-end{
     color: #e4b9b9;
+}
+.music-title{
+    margin-top: 50px;
+    font-size: 20px;
+    color: #5bc0de;
 }

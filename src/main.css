@@ -75,8 +75,11 @@
 .personal-left-end{
     color: #e4b9b9;
 }
-.music-title{
+.music-title {
     margin-top: 50px;
     font-size: 20px;
     color: #5bc0de;
+}
+.movie-title{
+    margin-top: 50px;
 }

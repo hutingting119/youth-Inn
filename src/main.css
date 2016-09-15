@@ -10,7 +10,7 @@
     color: #9d9d9d;
 }
 .main-title-2{
-    color: #e4b9b9;
+    color: #4cae4c;
 }
 .main-leaderboard{
     color: red;
@@ -36,5 +36,37 @@
 .main-end{
     background-color: #dddddd;
     height: 120px;
-
+}
+.personal-barcound{
+    background-image: url("../img/pink5.jpg");
+}
+.personal-title{
+    font-size: 30px;
+    font-style: italic;
+    color: #fbf069;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.personal-hmoe{
+    font-size: 20px;
+    font-style: oblique;
+    color: #DFF3FA;
+    margin-top: 20px;
+}
+.personal-little{
+    font-size: 20px;
+    font-style: oblique;
+    margin-top: 20px;
+}
+.personal-big{
+    font-style: oblique;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.personal-left{
+    margin-top: 130px;
+    font-size: 20px;
+}
+.personal-left-end{
+    color: #e4b9b9;
 }
